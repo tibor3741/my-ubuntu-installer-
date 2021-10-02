@@ -1,0 +1,1 @@
+# saj-t-ubuntu-telepit-script
