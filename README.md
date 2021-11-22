@@ -1,1 +1,1 @@
-# saj-t-ubuntu-telepit-script
+#Ubuntu my packagesinstaller 
