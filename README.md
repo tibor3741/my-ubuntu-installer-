@@ -1,1 +1,1 @@
-Ubuntu my packagesinstaller script
+Ubuntu my packages installer script
